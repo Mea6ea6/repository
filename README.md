@@ -8,4 +8,4 @@ __Функционал сайта:__
 
 ------
 
-__Инструменты и стек:__ #HTML #CSS #JS #JSX #React #Webpack #API #Git #Flex-box #Grid-layout #Bem-methodology
+__Инструменты и стек:__ #HTML #CSS #JS
